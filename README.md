@@ -27,6 +27,15 @@ Day 2
 
 ![layout](https://user-images.githubusercontent.com/25617965/145402136-d8a6e9f2-19c6-43e3-941f-7fecabeb437a.jpg)
 
+![placement](https://user-images.githubusercontent.com/25617965/145402535-aa019278-0b7f-4c06-a851-5c1b0b78759e.jpg)
+
+![placement1](https://user-images.githubusercontent.com/25617965/145402559-aaf87d6f-9bee-42d6-b958-781b3664073f.jpg)
+
+![place](https://user-images.githubusercontent.com/25617965/145402613-c51bcc6f-cca3-4e48-a17f-f72785f3e563.jpg)
+
+
+
+Day 3
 
 
 
