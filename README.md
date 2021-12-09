@@ -15,3 +15,6 @@ Day 1
 ![chip_area](https://user-images.githubusercontent.com/25617965/144751445-beef6aee-d4e0-473e-a1fa-836fa8192d1a.jpg)
 
 
+Day 2
+
+
