@@ -17,6 +17,20 @@ Day 1
 
 Day 2
 
+![run_floor](https://user-images.githubusercontent.com/25617965/145401845-3ded9740-590e-4916-90db-e22c807893e5.jpg)
+
+![floor_succ](https://user-images.githubusercontent.com/25617965/145401921-d354c95a-b8a6-486a-a802-73c3f27f1d94.jpg)
+
+![floor_def](https://user-images.githubusercontent.com/25617965/145401964-72bcb821-89be-48f6-b71d-84ecb3c49988.jpg)
+
+![magic](https://user-images.githubusercontent.com/25617965/145402038-f5fd8b10-4444-4b94-a556-168903cb2c95.jpg)
+
+![layout](https://user-images.githubusercontent.com/25617965/145402136-d8a6e9f2-19c6-43e3-941f-7fecabeb437a.jpg)
+
+
+
+
+
 
 
 
